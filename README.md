@@ -1,7 +1,7 @@
 Six-Trak Controller
 ===================
 
-by Dr. Steve Meisburger
+by **Dr. Steve Meisburger**
 
 [Project blog](https://sites.google.com/site/caffeinefueledtimewaster/)
 
