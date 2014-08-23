@@ -1,7 +1,10 @@
 caffeinefueledtimewaster
 ========================
 
-Six-Trak MIDI Controller by Steve Meisburger
+Six-Trak MIDI Controller
+------------------------
+
+by Dr. Steve Meisburger
 
 [Project blog](https://sites.google.com/site/caffeinefueledtimewaster/)
 
