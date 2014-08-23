@@ -8,7 +8,6 @@
 
 #define OP_CHANGE_PARAM 176 // MIDI op code for cc
 #define MAX_ANALOG_VALUE 1023
-#define MAX_DIGITAL_VALUE 2
 
 // Six-Trak parameters
 typedef struct param {
