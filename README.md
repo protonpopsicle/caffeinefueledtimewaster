@@ -1,8 +1,5 @@
-caffeinefueledtimewaster
-========================
-
-Six-Trak MIDI Controller
-------------------------
+Six-Trak Controller
+===================
 
 by Dr. Steve Meisburger
 
